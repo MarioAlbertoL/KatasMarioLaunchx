@@ -1,0 +1,3 @@
+Se creo un entorno virtual  se activo 
+se instalo el paquete dateutil
+y se desactivo el entorno virtual
